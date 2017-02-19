@@ -62,12 +62,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Ejercicio10.cs" />
     <Compile Include="Assets\Scripts\Ejercicio2.cs" />
     <Compile Include="Assets\Scripts\Ejercicio3.cs" />
     <Compile Include="Assets\Scripts\Ejercicio4.cs" />
     <Compile Include="Assets\Scripts\Ejercicio5.cs" />
     <Compile Include="Assets\Scripts\Ejercicio7.cs" />
     <Compile Include="Assets\Scripts\Ejercicio8.cs" />
+    <Compile Include="Assets\Scripts\Ejercicio9.cs" />
     <Compile Include="Assets\Scripts\MenuController.cs" />
     <Compile Include="Assets\Scripts\Salir.cs" />
   </ItemGroup>
