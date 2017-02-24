@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{84D6EFAE-80B3-82B3-692B-9FEFA5921784}</ProjectGuid>
+    <ProjectGuid>{11EF96E5-34A0-E204-F549-183E5973D336}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,7 +45,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Ejercicio10.cs" />
      <Compile Include="Assets\Scripts\Ejercicio2.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio3.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio4.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio5.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio6.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio7.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio8.cs" />
+     <Compile Include="Assets\Scripts\Ejercicio9.cs" />
      <Compile Include="Assets\Scripts\MenuController.cs" />
      <Compile Include="Assets\Scripts\Salir.cs" />
  <Reference Include="UnityEngine.UI">
